@@ -3,6 +3,7 @@
     "id":"com.vincil.vpm-listings",
     "url":"https://Vincil-VR.io/VPM-Listings/index.json",
     "author":{
+        "email":"vincilvrdev@gmail.com",
         "name":"Vincil",
         "url":"https://github.com/Vincil-VR"
     },
